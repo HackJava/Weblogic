@@ -19,6 +19,8 @@
 
 ## 五、Weblogic漏洞利用
 
+- https://github.com/sp4zcmd/WeblogicExploit-GUI
+
 ## 六、Weblogic靶场环境
 
 ## 七、Weblogic参考资源
